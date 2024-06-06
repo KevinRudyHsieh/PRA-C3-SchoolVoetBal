@@ -1,0 +1,59 @@
+{
+    "matches": [
+      {
+        "id": 68,
+        "team1_id": 3,
+        "team1_name": "Ajax",
+        "team2_id": 5,
+        "team2_name": "PSV"
+      },
+      {
+        "id": 90,
+        "team1_id": 8,
+        "team1_name": "NAC",
+        "team2_id": 5,
+        "team2_name": "PSV"
+      }
+    ],
+    "results": [
+      {
+        "id": 68,
+        "team1_id": 3,
+        "team1_name": "Ajax",
+        "team1_score": 1,
+        "team2_id": 5,
+        "team2_name": "PSV",
+        "team2_score": 0,
+        "winner_id": 3
+      },
+      {
+        "id": 90,
+        "team1_id": 8,
+        "team1_name": "NAC",
+        "team1_score": 2,
+        "team2_id": 5,
+        "team2_name": "PSV",
+        "team2_score": 4,
+        "winner_id": 5
+      }
+    ],
+    "goals": [
+      {
+        "id": 51,
+        "match_id": 90,
+        "minute": 58,
+        "player_id": 10,
+        "player_team": 5,
+        "player_name": "Marco van Basten"
+      },
+      {
+        "id": 52,
+        "match_id": 90,
+        "minute": 91,
+        "player_id": 4,
+        "player_team": 6,
+        "player_name": "Johan Cruijff"
+      }
+    ]
+  }
+  
